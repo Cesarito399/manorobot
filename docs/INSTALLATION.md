@@ -30,6 +30,8 @@
 
 ## Montaje del Hardware
 
+![Montaje del Hardware](img_02.jpg)
+
 1. **Conexión del Módulo EMG:**
    - **+Vs:** Conecta al terminal positivo de la primera batería de 9V.
    - **GND:** Conecta a la línea GND común.
