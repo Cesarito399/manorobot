@@ -12,6 +12,10 @@
 - **Módulo EMG**
   - Modelo sugerido: MyoWare Muscle Sensor.
 
+![Módulo EMG](img_01.jpeg)
+
+
+
 - **Baterías de 9V (2 unidades)**
   - Utilizadas para alimentar el sistema.
 
